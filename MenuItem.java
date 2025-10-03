@@ -1,5 +1,3 @@
-package LabNum4;
-
 public interface MenuItem {
     /**
      * @returns the name of the menu item

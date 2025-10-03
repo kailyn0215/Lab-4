@@ -1,5 +1,3 @@
-package LabNum4;
-
 public class Drink implements MenuItem {
     private String name;
     private double price;

@@ -1,5 +1,3 @@
-package LabNum4;
-
 public class Trio implements MenuItem, Comparable<Trio> {
     private Sandwich sandwich;
     private Salad salad;

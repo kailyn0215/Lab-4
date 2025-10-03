@@ -1,5 +1,3 @@
-package LabNum4;
-
 public class Sandwich implements MenuItem {
     private String name;
     private double price;
